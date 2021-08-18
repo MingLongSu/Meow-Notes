@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Meow Notes • Meow Apps</title>
+        <meta charset="utf-8">
+        <link href="meow_notes__app.css" rel="stylesheet">
+    </head>
+    <body> 
+        <div id="app" class="meow_notes--app"> 
+            <div class="top-bar" id="changeable">
+                <div class="app-name-container">
+                    <div class="app-name">
+                        Meow Notes
+                    </div>
+                </div>
+                <div class="pseudo-comp-container">
+                    <div class="logo-img-container">
+                        <div class="logo-img"></div>
+                    </div>
+                    <div class="logo-name-container">
+                        <div class="logo-name">Meow Apps</div>
+                    </div>
+                </div>
+            </div>
+            <div class="main-view" id="changeable">
+                <div class="side-bar-left" id="changeable"> 
+                    <div class="add-note-button-container" id="changeable">
+                        <button class="add-note-button"> 
+                            Add Note
+                        </button>
+                    </div>
+                    <div class="notes-list-container" id="changeable">
+                        <!--All notes go in here now-->
+                    </div>
+                </div>
+                <div class="main-bar-background">
+                    <div class="main-bar-foreground" id="changeable"> 
+                        <input class="main-bar-title-input" id="input" type="text" placeholder="Title...">
+                        <textarea class="main-bar-content-input" id="input" placeholder="Content..."></textarea>
+                    </div>
+                </div>
+                <div class="side-bar-right" id="changeable"> 
+                    <div class="side-bar-right-container">
+                        <div class="side-bar-right-prompt">
+                            <span class="side-bar-right-prompt-name"><</span>
+                        </div>
+                        <div class="side-bar-right-content-box">
+                            <div class="themes-container" id="changeable">
+                                <div class="themes-container-title" id="changeable">
+                                   <span class="themes-container-title-title">Themes</span>
+                                </div>
+                                <div class="themes-container-psuedo" id="changeable"> 
+                                    <div class="themes-container-themes-row-one"> 
+                                        <div class="theme" id="theme-one"></div>
+                                        <div class="theme" id="theme-two"></div>
+                                        <div class="theme" id="theme-three"></div>
+                                    </div>
+                                    <div class="themes-container-themes-row-two">
+                                        <div class="theme" id="theme-four"></div>
+                                        <div class="theme" id="theme-five"></div>
+                                        <div class="theme" id="theme-six"></div>
+                                    </div> 
+                                </div>
+                            </div>
+                            <div class="upload-a-background-container" id="changeable"> 
+                                <div class="upload-a-background-title" id="changeable">
+                                    <span class="upload-a-background-title-title">Upload a Background</span>
+                                </div>
+                                <div class="upload-a-background-pseudo-container" id="changeable">
+                                    <img class="upload-a-background-background-preview" src="">
+                                    <input type="file" hidden="hidden" class="upload-a-background-real">
+                                </div>
+                            </div>
+                            <div class="opacity-container" id="changeable">
+                                <div class="opacity-container-title" id="changeable">
+                                    <span class="opacity-container-title-title">Opacity</span>
+                                </div>
+                                <div class="opacity-container-slider-container">
+                                    <div class="opacity-value" id="changeable">
+                                        <span class="opacity-value-value"></span>
+                                    </div>
+                                    <input type="range" min="0" max="100" value="10" class="opacity-container-slider">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!--Perhaps have the right side bar here-->
+        </div>
+        <script src="js_files/meow_notes__logo.js"></script>
+        <script src="js_files/meow_note__cutomization_tab.js"></script>
+        <script src="js_files/meow_note__settings.js"></script>
+        <script src="js_files/meow_notes__app.js"></script>
+    </body>
+</html>
+
+<!---->
+
