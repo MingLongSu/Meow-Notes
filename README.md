@@ -11,7 +11,7 @@ As a result, the aim of this app is to provide a simple web-based note-taking se
 - Customisable theme and background to allow users to feel cozy in their new virtual workspace
 
 ## 🖼️ Images
-<img src="https://kapwi.ng/c/_t4TrM-FSf" width="40" height="40" />
+<div style="height: 0; padding-bottom: calc(49.23%); position:relative; width: 100%;"><iframe allow="autoplay; gyroscope;" allowfullscreen height="100%" referrerpolicy="strict-origin" src="https://www.kapwing.com/e/6211b6e545eea800c7f6842f" style="border:0; height:100%; left:0; overflow:hidden; position:absolute; top:0; width:100%" title="Embedded content made on Kapwing" width="100%"></iframe></div><p style="font-size: 12px; text-align: right;">Content made on <a href="https://www.kapwing.com/" target="_blank" rel="noopener noreferrer">Kapwing</a></p>
 
 ## 🛠️ Future Plans
 - Rework the front-end
