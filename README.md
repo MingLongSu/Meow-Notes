@@ -11,7 +11,7 @@ As a result, the aim of this app is to provide a simple web-based note-taking se
 - Customisable theme and background to allow users to feel cozy in their new virtual workspace
 
 ## 🖼️ Images
-**To be added
+<img src="https://kapwi.ng/c/_t4TrM-FSf" width="40" height="40" />
 
 ## 🛠️ Future Plans
 - Rework the front-end
