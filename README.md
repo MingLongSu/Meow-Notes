@@ -11,8 +11,7 @@ As a result, the aim of this app is to provide a simple web-based note-taking se
 - Customisable theme and background to allow users to feel cozy in their new virtual workspace
 
 ## 🖼️ Images
-<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="40" height="40" />
-https://www.kapwing.com/e/6211b6e545eea800c7f6842f
+<img src="https://www.kapwing.com/e/6211b6e545eea800c7f6842f" width="40" height="40" />
 
 ## 🛠️ Future Plans
 - Rework the front-end
