@@ -10,8 +10,6 @@ As a result, the aim of this app is to provide a simple web-based note-taking se
 - Recent notes side bar providing quick and easy navigation to the most recently added or edited notes
 - Customisable theme and background to allow users to feel cozy in their new virtual workspace
 
-## 🖼️ Images
-
 ## ✨ Adding Notes
 ![MeowNotesAddingNotesGif](https://user-images.githubusercontent.com/88013020/155819215-4f00815d-dedd-4d97-a69a-c024df669cad.gif)
 
