@@ -16,7 +16,7 @@ As a result, the aim of this app is to provide a simple web-based note-taking se
 ## 🔥 Editing Notes
 ![MeowNotesEditingNotesGif](https://user-images.githubusercontent.com/88013020/155824555-053a8dfd-019d-40a4-b81f-74da052c14e3.gif)
 
-## 👍 Deleting Notes
+## ❌ Deleting Notes
 ![MeowNotesDeletingNotesGif](https://user-images.githubusercontent.com/88013020/155824595-7301362d-92ec-4b39-9643-72e5a97df8ed.gif)
 
 ## 🛠️ Future Plans
